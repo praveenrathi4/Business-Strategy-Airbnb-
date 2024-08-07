@@ -1,2 +1,1 @@
-# airbnb
-Airbnb data analysis to infer revenue decline problem
+# Airbnb data analysis to infer revenue decline problem
